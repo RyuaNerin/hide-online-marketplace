@@ -9,7 +9,7 @@
 ! Homepage: https://github.com/RyuaNerin/hide-online-marketplace
 ! License: https://github.com/RyuaNerin/hide-online-marketplace#license
 ! Expires: 1 hour
-! Version: 2024.08.29.15.16 (UTC)
+! Version: 2024.08.29.15.20 (UTC)
 
 ! 다나와
 google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="search.danawa.com/dsearch.php"])
@@ -57,7 +57,7 @@ google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]
 google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="coupang.com/vm/products/"])
 google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="coupang.com/vp/products/"])
 google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="coupang.com/np/search"])
-google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="https://pages.coupang.com/p/126326"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="pages.coupang.com/p/"])
 ! 알리 익스프레스
 google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ko.aliexpress.com/i/"][href*=".html"])
 google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ko.aliexpress.com/item/"][href*=".htm"])
