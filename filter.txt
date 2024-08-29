@@ -1,0 +1,152 @@
+[Adblock Plus 2.0]
+! 
+! Please do not copy this file, Subscribe this filter by clicking the "Subscribe hide-online-marketplace filter" button in the middle of the link below.
+! 이 파일을 복사하지 말고 아래 링크의 중간에 있는 "추가하기" 버튼을 클릭하여 추가해주세요.
+! https://github.com/RyuaNerin/hide-online-marketplace
+! 
+! Title: hide-online-marketplace
+! Description: 검색 결과에서 온라인 마켓 검색/상품 결과를 숨겨요.
+! Homepage: https://github.com/RyuaNerin/hide-online-marketplace
+! License: https://github.com/RyuaNerin/hide-online-marketplace#license
+! Expires: 1 hour
+! Version: 2024.08.29.15.16 (UTC)
+
+! 다나와
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="search.danawa.com/dsearch.php"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="prod.danawa.com/info/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="danawa.com/product/product.html"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="prod.danawa.com/list"])
+! 홈플러스
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="homeplus.co.kr/item"][href*="itemNo="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="homeplus.co.kr/search"][href*="keyword="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="homeplus.co.kr/list"])
+! 지마켓
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="gmarket.co.kr/n/search"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="gmarket.co.kr/Item"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="gmarket.co.kr/airu/click"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="gmarket.co.kr/n/list"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="gmarket.co.kr/n/minishop/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="gmarket.co.kr/ExpressShop/SHomeplus/Search"])
+! 옥션
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="auction.co.kr/n/search"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="auction.co.kr/m/search"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="auction.co.kr/DetailView.aspx"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="auction.co.kr/gate/channel"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="auction.co.kr/Shop/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="auction.co.kr/n/list"])
+! SSG / 이마트몰
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ssg.com/item/itemView.ssg"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ssg.com/search.ssg"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ssg.com/specialStore/electromart2/sub.ssg"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ssg.com/page/weeklyevent.ssg"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ssg.com/disp/category.ssg"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ssg.com/sellerhome/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ssg.com/disp/brandShop"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ssglanderseshop.co.kr/shop/"])
+! 카카오 쇼핑하우
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="shoppinghow.kakao.com/m/search/q/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="shoppinghow.kakao.com/m/product/"][href*="view_type"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="shoppinghow.kakao.com/go.daum"])
+! 카카오 쇼핑
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="store.kakao.com/arb/products/"])
+! 롯데ON
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="lotteon.com/search/search/search.ecn"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="lotteon.com/product/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="lotteon.com/m/product/"])
+! 쿠팡
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="coupang.com/vm/products/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="coupang.com/vp/products/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="coupang.com/np/search"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="https://pages.coupang.com/p/126326"])
+! 알리 익스프레스
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ko.aliexpress.com/i/"][href*=".html"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ko.aliexpress.com/item/"][href*=".htm"])
+! 테무
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="temu.com/"][href*="-g-"][href*=".html"])
+! 이랜드몰
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="elandmall.co.kr/i/item"])
+! 11번가
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="search.11st.co.kr/MW/search"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="search.11st.co.kr/pc/total-search"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="11st.co.kr/products/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="11st.co.kr/MW/Product/productBasicInfo.tmall"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="11st.co.kr/MW/Catalog/catalogDetail.tmall"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="11st.co.kr/MW/Search/searchProduct.tmall"])
+! 오캠프
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ocamp.co.kr/product/"])
+! 옥션
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="auction.co.kr/DetailView.aspx"])
+! 알리바바
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="alibaba.com/product-detail/"][href*=".html"])
+! 무신사
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="musinsa.com/search/musinsa/integration"])
+! 컴퓨존
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="compuzone.co.kr/product/"][href*=".htm"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="computer.co.kr/goods/category"])
+! 디바이스 마트
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="devicemart.co.kr/goods/view"])
+! 엘레파츠
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="eleparts.co.kr/goods/view"])
+! 아이씨뱅큐
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="icbanq.com/P"])
+! 번개장터
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="bunjang.co.kr/search/products"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="bunjang.co.kr/products/"])
+! 중고나라
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="web.joongna.com/product/"])
+! 아이코다
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="icoda.co.kr/item/view/"])
+! 품
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="poom.co.kr/goods/initDetailGoods.action"])
+! 갤러리아 몰
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="galleria.co.kr/goods/initDetailGoods.action"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="galleria.co.kr/item/showItemDtl.do"])
+! 재팬봉
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*=".co.kr/mall/view/goodsNo/"])
+! 아마존
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.ca/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.cn/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.co.jp/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.co.uk/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.com.br/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.com.mx/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.com/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.de/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.es/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.fr/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.in/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.it/"][href*="/s?"][href*="k="])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.ca/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.cn/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.co.jp/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.co.uk/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.com.br/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.com.mx/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.com/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.de/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.es/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.fr/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.in/"][href*="/dp/"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="amazon.it/"][href*="/dp/"])
+! 건담샵
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="gundamshop.co.kr/mobile/View.php"])
+! igearmall
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="igearmall.biz/front/product/product_detail"])
+! 쿠차
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="coocha.co.kr/search/search.do"])
+! 보드나라
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="bodnara.co.kr/bbs/article.html"])
+! Top TechShop
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="toptechshop.co.kr/m/product_list.html"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="toptechshop.co.kr/m/product.html"])
+! 제이알컴
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="kioskmate.com/category/"])
+! 배민
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="store.baemin.com/product/"])
+! 위메프
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="wemakeprice.com/affiliate/bridge"])
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="wemakeprice.com/product/"])
+! ipcpart
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="ipcpart.co.kr/goods/catalog"])
+! JCLink
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a[href*="jclink.co.kr/category/"])
