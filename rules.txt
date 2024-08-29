@@ -57,7 +57,7 @@ lotteon.com/m/product/
 coupang.com/vm/products/                        # 상품 https://m.coupang.com/vm/products/8140962957?itemId=23134321275&vendorItemId=90387369921
 coupang.com/vp/products/
 coupang.com/np/search
-https://pages.coupang.com/p/126326
+pages.coupang.com/p/                            # 리스트 https://pages.coupang.com/p/126326
 
 # 알리 익스프레스
 ko.aliexpress.com/i/|.html                      # 상품 https://ko.aliexpress.com/i/1005005261916003.html
