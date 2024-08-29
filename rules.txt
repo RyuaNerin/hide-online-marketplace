@@ -1,0 +1,182 @@
+# 다나와
+search.danawa.com/dsearch.php                   # 검색 https://search.danawa.com/dsearch.php?query=%EC%9D%B8%ED%85%94%20n100
+prod.danawa.com/info/
+danawa.com/product/product.html
+prod.danawa.com/list                            # 카테고리 https://prod.danawa.com/list/?cate=1131496
+
+# 홈플러스
+homeplus.co.kr/item|itemNo=                     # 상품 https://mfront.homeplus.co.kr/item?itemNo=10000302283115&storeType=ds
+homeplus.co.kr/search|keyword=                  # 검색 https://mfront.homeplus.co.kr/search?entry=direct&keyword=123123
+homeplus.co.kr/list                             # 목록 https://mfront.homeplus.co.kr/list?categoryId=200072&categoryDepth=2
+
+# 지마켓
+gmarket.co.kr/n/search                          # 검색 https://m.gmarket.co.kr/n/search?keyword=n100
+gmarket.co.kr/Item                              # 상품 http://mg.gmarket.co.kr/Item?goodscode=1820722431
+                                                #      https://item.gmarket.co.kr/item?goodscode=3734487286&GoodsSale=Y&jaehuid=200013954
+gmarket.co.kr/airu/click                        # 상품 (광고연동) http://adgate.gmarket.co.kr/airu/click?r=bmV4dFVybD1odHRwJTNBJTJGJTJGaXRlbS5nbWFya2V0LmNvLmtyJTJGSXRlbSUzRmdvb2RzY29kZSUzRDM1MjE5Mzk1NTgmZGF0YT1kbVZ1Wkc5eVBUZzNKbUpwWkY5MlpXNWtiM0k5T0RZbWMyVnNiR1Z5WDJsa1BXMXZiVzlsTkNacGRHVnRYMjV2UFRNMU1qRTVNemsxTlRnbWNtRmZaM0p2ZFhCZmJtODlNVEF5T0RRekpuTmxiR3hsY2w5amRYTjBYMjV2UFRFMU9USXdNak16TnladFlYTjBaWEpmYVdROU56QTRNams0Sm5KbGNWOXBaRDA0WmpObE5EZzJZeTA0TWpnekxUUTRNRFV0T0RWbVlpMDVNekkxWTJaaU16STNaamttYVcxd1gybGtQVFprTVRsbFlXUXhMV1V6TWpFdE5EWTVNUzFpTldVM0xUWXdaVEl5WmpOaE5EUmhOU1pyWlhsM2IzSmtQU1pqWjNWcFpEMG1jR2QxYVdROUpuTm5kV2xrUFNabGRHTmZhVzVtYnowbE4wSWxNakpoWWxSbGMzUkRiMlJsSlRJeUpUTkJiblZzYkNVeVF5VXlNblJsYzNSQ2RXTnJaWFJPZFcwbE1qSWxNMEUxSlRKREpUSXlZV1JUWlhSSGNtOTFjRU52WkdVbE1qSWxNMEV5T0NVeVF5VXlNbXBoWldoMVNXUWxNaklsTTBFbE1qSXlNREF3TURNMU1UUWxNaklsTjBRJTNEJmFwcGdhdGU9WQ==&jaehuid=200003514&ref=http%3A%2F%2Fmitem.gmarket.co.kr%2FItem%3FgoodsCode%3D3043298490%26jaehuid%3D
+gmarket.co.kr/n/list                            # 리스트 https://m.gmarket.co.kr/n/list?category=300028505&f=b:86795
+gmarket.co.kr/n/minishop/                       # 미니숍 https://m.gmarket.co.kr/n/minishop/ndpstore/list?lcode=100000002&isShopCategory=false&p=3
+gmarket.co.kr/ExpressShop/SHomeplus/Search      # 당일배송 https://mobile.gmarket.co.kr/ExpressShop/SHomeplus/Search?CategoryCode=1003002&Keyword=homeplus&BrandCodes=67994,35565,29049,22527,34313,24095,22236,43637,37088,35928,24284&Sort=SELL_POINT_INFO&hcs=true&page=1
+
+# 옥션
+auction.co.kr/n/search                          # 검색 https://m.auction.co.kr/n/search?keyword=%ED%8C%AC%EB%A6%AC%EC%8A%A4
+auction.co.kr/m/search                          # 검색 http://browse.auction.co.kr/m/search?keyword=%ED%8C%AC%EB%A6%AC%EC%8A%A4&s=3&p=3
+auction.co.kr/DetailView.aspx
+auction.co.kr/gate/channel          
+auction.co.kr/Shop/                             # 셀러숍 https://m.auction.co.kr/Shop/jrcom2
+auction.co.kr/n/list                            # 리스트 https://m.auction.co.kr/n/list?category=22311500&t=a&v=l&k=0&p=2
+
+# SSG / 이마트몰
+ssg.com/item/itemView.ssg                       # 상품 https://emart.ssg.com/item/itemView.ssg?itemId=1000040067430&siteNo=6001&salestrNo=6005
+                                                #      https://www.ssg.com/item/itemView.ssg?itemId=1000558247586
+ssg.com/search.ssg                              # 검색 https://emart.ssg.com/search.ssg?query=%EB%B2%A0%EC%96%B4%EB%B3%B8
+                                                #      https://boons.ssg.com/search.ssg?target=all&query=%EB%A6%AC%EC%8A%A4&src_area=srlt
+ssg.com/specialStore/electromart2/sub.ssg       # 일렉트로마트 https://emart.ssg.com/specialStore/electromart2/sub.ssg?ctgId=6000230085
+                                                #              https://boons.ssg.com/specialStore/electromart2/sub.ssg?ctgId=6000230038
+ssg.com/page/weeklyevent.ssg                    # 전단행사 https://m-emart.ssg.com/page/weeklyevent.ssg?app_banrId=2003502062
+ssg.com/disp/category.ssg                       # 카테고리 https://boons.ssg.com/disp/category.ssg?ctgId=6000214764
+                                                #          https://ssg.com/disp/category.ssg?dispCtgId=6000208744
+ssg.com/sellerhome/                             # 셀러 홈 https://m.ssg.com/sellerhome/206447/category.ssg?dispCtgId=6000208744
+ssg.com/disp/brandShop                          # 브랜드 숍 https://m-emart.ssg.com/disp/brandShop.ssg?brandId=1010770836&ctgId=
+ssglanderseshop.co.kr/shop/                     # SSG 랜더스 숍 https://ssglanderseshop.co.kr/shop/8809859838749
+
+# 카카오 쇼핑하우
+shoppinghow.kakao.com/m/search/q/               # 검색 https://m.shoppinghow.kakao.com/m/search/q/uwin%E3%80%90jili957.com%E3%80%91.oyi
+shoppinghow.kakao.com/m/product/|view_type      # 상품 https://m.shoppinghow.kakao.com/m/product/B5097258780/view_type:list&q:%EC%95%B1%EC%BD%94%20pc%20%EC%BC%80%EC%9D%B4%EC%8A%A4...
+shoppinghow.kakao.com/go.daum                   # 상품 https://m.shoppinghow.kakao.com/go.daum?pkey=14A00bi4bPgTwFXuB4FCTxQO7WPnz9YQyWANOlA4D5HHaClQxMnr1CyYjVU99I6W-3eYBUUIYT9A8SqTXxBp94vz4EbP4HFEwQcq9CV8hZKXb5Jehay7KZiNQwQ00&val=eYq_ezcl6b3IYx2E8GbHY69qRFdBVMCft.3Gy7wkoZYnJNRxQdu6dYA_Fvq3Wtvq24Jnq6vzo3XemdcRnnQpAtEA6kL2DZMbyc9TP7ulVyNdzmDBfXXa3OAKR_LX3qxDSh2UP&search=IB3DKseYJsSNuKiMFOdsHQdkA-1Gi3Dsit7qeQ6JTrtBe2noVDegpwT2Sw5ck19taFADbtd1xbZG3-qOPCJd721kBHiz3TH.nP5sSYIvWxYD3tCrWxhibTUXPy_xFD9DkdckbliU4_zgtaGNeH_HjXuXJzePrxHd7UIPfWq4E.M2zqKQYTqIncfjeJg1NkcI_CeUDorV6aNnA864_VCNVQq5TJLgIjNETiFC.op18CPbPrtnBP8AK2WZEGzIm1H9C6zeHeTDpt6vFYVO5T9Y1Los5iXJpQ-MC_2_BECljf75HvXJ9OQgjpH1qY86aGBRVOANug_MaiNn9NzIkaMATN_dfgv8CxzaZoBnDvrylTiXKbefo4fUyCIVQd7kkbwnutwTP&shopid=11st
+
+# 카카오 쇼핑
+store.kakao.com/arb/products/                   # 상품 https://store.kakao.com/arb/products/219375691
+
+# 롯데ON
+lotteon.com/search/search/search.ecn            # 검색 https://www.lotteon.com/search/search/search.ecn?render=search&platform=m&q=n100&mallId=3
+lotteon.com/product/
+lotteon.com/m/product/
+
+# 쿠팡
+coupang.com/vm/products/                        # 상품 https://m.coupang.com/vm/products/8140962957?itemId=23134321275&vendorItemId=90387369921
+coupang.com/vp/products/
+coupang.com/np/search
+https://pages.coupang.com/p/126326
+
+# 알리 익스프레스
+ko.aliexpress.com/i/|.html                      # 상품 https://ko.aliexpress.com/i/1005005261916003.html
+ko.aliexpress.com/item/|.htm                    # 상품 https://ko.aliexpress.com/item/1005004626342843.html
+
+# 테무
+temu.com/|-g-|.html                             # 상품 https://www.temu.com/kr/-mig-mma-250f-220v-mig-mma-tig-left-%EB%8B%A4%EA%B8%B0%EB%8A%A5-%ED%9C%B4%EB%8C%80%EC%9A%A9-%EC%9A%A9%EC%A0%91-%EC%9E%A5%EB%B9%84%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-3-in-1-%EB%8B%A8%EC%9D%BC-%EA%B0%80%EC%8A%A4-%EC%9A%A9%EC%A0%91-%EC%95%84%EB%A5%B4%EA%B3%A4-%EC%95%84%ED%81%AC-%EC%9A%A9%EC%A0%91-%EA%B1%B4%EC%9D%84-%ED%8F%AC%ED%95%A8%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%8C-g-601099587594288.html
+
+# 이랜드몰
+elandmall.co.kr/i/item                          # 상품 http://www.elandmall.co.kr/i/item?itemNo=2107104573
+
+# 11번가
+search.11st.co.kr/MW/search                     # 검색 https://search.11st.co.kr/MW/search?searchKeyword=
+search.11st.co.kr/pc/total-search               # 검색 https://search.11st.co.kr/pc/total-search?kwd=%EB%AC%B4%EC%86%8C%EC%9D%8C%ED%99%98%ED%92%8D%EA%B8%B0
+11st.co.kr/products/                            # 상품 https://www.11st.co.kr/products/5555795460
+11st.co.kr/MW/Product/productBasicInfo.tmall    # 상품 http://m.11st.co.kr/MW/Product/productBasicInfo.tmall?prdNo=1754393306
+11st.co.kr/MW/Catalog/catalogDetail.tmall       # 카탈로그 https://catalog.11st.co.kr/MW/Catalog/catalogDetail.tmall?catalogNo=297966692&trTypeCd=MAT9&trCtgrNo=950076
+11st.co.kr/MW/Search/searchProduct.tmall        # 추천 상품 https://m.11st.co.kr/MW/Search/searchProduct.tmall?searchKeyword=%25ED%258C%25AC%25ED%2597%2588%25EB%25B8%258C&decSearchKeyword=%ED%8C%AC%ED%97%88%EB%B8%8C
+
+# 오캠프
+ocamp.co.kr/product/                            # 상품 https://ocamp.co.kr/product/%EC%9C%A0%EB%8B%88%ED%94%84%EB%A0%88%EC%9E%84-%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%BA%A0%ED%95%91%EC%9A%A9-%EC%A1%B0%EB%A6%BD%EC%8B%9D-%EB%9E%9C%ED%84%B4-%EC%8A%A4%ED%83%A0%EB%93%9C-uf-622049uniflamechuf40100/14743/
+
+# 옥션
+auction.co.kr/DetailView.aspx
+
+# 알리바바
+alibaba.com/product-detail/|.html               # 상품 https://korean.alibaba.com/product-detail/Fanless-N100-Processor-12th-Gen-Newest-1601028324134.html
+
+# 무신사
+musinsa.com/search/musinsa/integration
+
+# 컴퓨존
+compuzone.co.kr/product/|.htm                   # 상품 https://www.compuzone.co.kr/product/recommend_list.htm
+computer.co.kr/goods/category                   # 추천상품 https://www.computer.co.kr/goods/category?cateCode=873
+
+# 디바이스 마트
+devicemart.co.kr/goods/view                     # https://www.devicemart.co.kr/goods/view?no=15324756
+
+# 엘레파츠
+eleparts.co.kr/goods/view                       # https://m.eleparts.co.kr/goods/view?no=14082916
+
+# 아이씨뱅큐
+icbanq.com/P                                    # https://www.icbanq.com/P016138517
+
+# 번개장터
+bunjang.co.kr/search/products                   # https://m.bunjang.co.kr/search/products?q=n100
+bunjang.co.kr/products/
+
+# 중고나라
+web.joongna.com/product/                        # 상품 https://web.joongna.com/product/126690731
+
+# 아이코다
+icoda.co.kr/item/view/                          # 상품 https://usr.icoda.co.kr/item/view/1346613
+
+# 품
+poom.co.kr/goods/initDetailGoods.action         # 상품 https://m.poom.co.kr/goods/initDetailGoods.action?goods_no=G22010348280
+
+# 갤러리아 몰
+galleria.co.kr/goods/initDetailGoods.action     # 상품 https://www.galleria.co.kr/goods/initDetailGoods.action?goods_no=2009514132
+galleria.co.kr/item/showItemDtl.do              # 상품 https://mobile.galleria.co.kr/item/showItemDtl.do?item_id=6193661
+
+# 재팬봉
+.co.kr/mall/view/goodsNo/                       # 상품 https://japanbong.co.kr/mall/view/goodsNo/74815
+
+# 아마존
+amazon.ca/|/s?|k=                               # 검색
+amazon.cn/|/s?|k=                               # https://www.amazon.com/intel-n100/s?k=intel+n100
+amazon.co.jp/|/s?|k=
+amazon.co.uk/|/s?|k=
+amazon.com.br/|/s?|k=
+amazon.com.mx/|/s?|k=
+amazon.com/|/s?|k=
+amazon.de/|/s?|k=
+amazon.es/|/s?|k=
+amazon.fr/|/s?|k=
+amazon.in/|/s?|k=
+amazon.it/|/s?|k=
+
+amazon.ca/|/dp/                                 # 상품
+amazon.cn/|/dp/                                 # https://www.amazon.co.uk/Beelink-Lake-N100-Processor-Computer-MINI-S12/dp/B0BZGPTLPG
+amazon.co.jp/|/dp/
+amazon.co.uk/|/dp/
+amazon.com.br/|/dp/
+amazon.com.mx/|/dp/
+amazon.com/|/dp/
+amazon.de/|/dp/
+amazon.es/|/dp/
+amazon.fr/|/dp/
+amazon.in/|/dp/
+amazon.it/|/dp/
+
+# 건담샵
+gundamshop.co.kr/mobile/View.php                # 상품 https://m.gundamshop.co.kr/mobile/View.php?ItemCode=10164084
+
+# igearmall
+igearmall.biz/front/product/product_detail      # https://boardm.igearmall.biz/front/product/product_detail.php?seq=78434&pinid=24716
+
+# 쿠차
+coocha.co.kr/search/search.do                   # 검색 http://m.coocha.co.kr/search/search.do?keyword=%ED%8C%AC%EB%A6%AC%EC%8A%A4+%EB%85%B8%ED%8A%B8%EB%B6%81
+
+# 보드나라
+bodnara.co.kr/bbs/article.html                  # 상품 https://www.bodnara.co.kr/bbs/article.html?num=147692
+
+# Top TechShop
+toptechshop.co.kr/m/product_list.html           # 상품 목록 https://www.toptechshop.co.kr/m/product_list.html?type=X&xcode=018
+toptechshop.co.kr/m/product.html                # 상품 https://www.toptechshop.co.kr/m/product.html?branduid=177161
+
+# 제이알컴
+kioskmate.com/category/                         # 카테고리 https://kioskmate.com/category/%ED%8C%AC%EB%A6%AC%EC%8A%A4pc/43/
+
+# 배민
+store.baemin.com/product/                       # 상품 https://store.baemin.com/product/128213
+
+# 위메프
+wemakeprice.com/affiliate/bridge                # 상품 제휴 https://front.wemakeprice.com/affiliate/bridge?channelId=1000114&prodNo=2173060590&affiliateExtraNo=101097
+wemakeprice.com/product/                        # 상품 https://front.wemakeprice.com/product/2173060590
+
+# ipcpart
+ipcpart.co.kr/goods/catalog                     # 상품 카탈로그 https://www.ipcpart.co.kr/goods/catalog?code=00130008&display_style=list&perpage=32&popup=&iframe=
+
+# JCLink
+jclink.co.kr/category/                          # 카테고리 https://jclink.co.kr/category/%EB%AC%B4%EC%86%8C%EC%9D%8Cpc-%ED%8C%AC%EB%A6%AC%EC%8A%A4pc/137/

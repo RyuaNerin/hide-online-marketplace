@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! 
+! Please do not copy this file, Subscribe this filter by clicking the "Subscribe hide-online-marketplace filter" button in the middle of the link below.
+! 이 파일을 복사하지 말고 아래 링크의 중간에 있는 "추가하기" 버튼을 클릭하여 추가해주세요.
+! https://github.com/RyuaNerin/hide-online-marketplace
+! 
+! Title: hide-online-marketplace
+! Description: 검색 결과에서 온라인 마켓 검색/상품 결과를 숨겨요.
+! Homepage: https://github.com/RyuaNerin/hide-online-marketplace
+! License: https://github.com/RyuaNerin/hide-online-marketplace#license
+! Expires: 1 hour
+! Version: {{ NOW }}
+
+{% for rule in RULES -%}
+{% if rule.comment != "" -%}
+! {{ rule.comment }}
+{% else -%}
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a
+{%- for v in rule.host -%}
+[href*="{{ v }}"]
+{%- endfor -%}
+)
+{% endif -%}
+{% endfor %}
