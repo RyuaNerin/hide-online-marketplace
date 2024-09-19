@@ -15,7 +15,7 @@
 {% if rule.comment != "" -%}
 ! {{ rule.comment }}
 {% else -%}
-google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-hveid]:has(a
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div[data-ved:has(a
 {%- for v in rule.host -%}
 [href*="{{ v }}"]
 {%- endfor -%}
